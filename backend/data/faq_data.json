@@ -99,11 +99,73 @@
   "question": "How long does it take to get the degree certificate?",
   "answer": "It usually takes 3–4 months after the final results. Keep checking the notice board or website."
 },
-{ "question": "hi", "answer": "Hello! How can I assist you today?" },
-{ "question": "hello", "answer": "Hi there! Ask me anything about your college." },
-{ "question": "who are you", "answer": "I'm a student support chatbot for Jamia Hamdard University." },
-{ "question": "when is the next exam", "answer": "The next exam schedule will be posted on the university portal." },
-{ "question": "how to pay fees", "answer": "You can pay your fees via the student portal under the 'Fee Payment' section." },
-{ "question": "Fill Semester Exam Form", "answer": "You can fill your Semester Exam Form from the university portal (http://jhasf.jamiahamdard.edu:81/Login.aspx) using your enrollment number and password." },
-{ "question": "Download Admit Card", "answer": "You can download your admit card from the university portal (http://jhasf.jamiahamdard.edu:81/Login.aspx) using your enrollment number and password." }
+{ 
+  "question": "when is the next exam", 
+  "answer": "The next exam schedule will be posted on the university portal." 
+},
+{ 
+  "question": "how to pay fees", 
+  "answer": "You can pay your fees via the student portal (https://www.jamiahamdard.ac.in/-online-fee-payment) under the 'Fee Payment' section." 
+},
+{ 
+  "question": "Fill Semester Exam Form", 
+  "answer": "You can fill your Semester Exam Form from the university portal (http://jhasf.jamiahamdard.edu:81/Login.aspx) using your enrollment number and password." 
+},
+{ 
+  "question": "Download Admit Card", 
+  "answer": "You can download your admit card from the university portal (http://jhasf.jamiahamdard.edu:81/Login.aspx) using your enrollment number and password." 
+},
+{
+  "question": "hi",
+  "answer": "Hello! How can I assist you today regarding Jamia Hamdard University?"
+},
+{
+  "question": "hello",
+  "answer": "Hi there! I'm your AI assistant for Jamia Hamdard. Ask me anything!"
+},
+{
+  "question": "hey",
+  "answer": "Hey! How can I help you with your college queries?"
+},
+{
+  "question": "what's up",
+  "answer": "I'm here to help you! Ask me anything about your university."
+},
+{ 
+  "question": "who are you", 
+  "answer": "I'm a student support chatbot for Jamia Hamdard University." 
+},
+{
+  "question": "good morning",
+  "answer": "Good morning! Hope you have a productive day. How can I help?"
+},
+{
+  "question": "good afternoon",
+  "answer": "Good afternoon! Let me know if you have any college-related questions."
+},
+{
+  "question": "good evening",
+  "answer": "Good evening! How may I assist you today?"
+},
+{
+  "question": "bye",
+  "answer": "Goodbye! Feel free to return anytime if you need help."
+},
+{
+  "question": "thank you",
+  "answer": "You're welcome! Let me know if you need anything else."
+},
+{
+  "question": "thanks",
+  "answer": "Anytime! I'm here to help Jamia Hamdard students."
+},
+{
+  "question": "who made you",
+  "answer": "I was created by a student using AI to support others at Jamia Hamdard University!"
+},
+{
+  "question": "are you a real person",
+  "answer": "I'm an AI chatbot created to help you with your university-related queries."
+}
+
 ]
