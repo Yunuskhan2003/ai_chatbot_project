@@ -40,17 +40,17 @@ function ChatWindow() {
         <img
           src="/raj.jpg"
           alt="Raj Khan"
-          className="w-12 h-12 rounded-full object-cover"
+          className="w-20 h-20 rounded-full object-cover"
         />
         <div>
-          <h2 className="text-xl font-semibold">Yunus Khan</h2>
-          <p className="text-sm text-gray-600">Student Support Chatbot</p>
+          <h2 className="text-xl font-semibold">JAMIA HAMDARD UNIVERSITY</h2>
+          <p className="text-l text-gray-800">Student Support Chatbot</p>
         </div>
       </div>
 
       {/* 💬 Chat Title */}
       <h1 className="text-lg font-bold mb-3 text-center">
-        🎓 AI Assistant for the Students of Jamia Hamdard University
+        AI Assistant for the Students of Jamia Hamdard University
       </h1>
 
       {/* 📩 Message Area */}
