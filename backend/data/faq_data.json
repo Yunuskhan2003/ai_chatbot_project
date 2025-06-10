@@ -1,6 +1,6 @@
 [
   {
-    "question": "What is the syllabus for BTech CSE 3rd semester?",
+    "question": "What is the syllabus for BTech CSE?",
     "answer": "You can download the syllabus from: (https://jamiahamdard.ac.in)"
   },
   {
@@ -58,13 +58,50 @@
   {
     "question": "How can I reset my student portal password?",
     "answer": "Click on 'Forgot Password' on the login page (http://jhasf.jamiahamdard.edu:81/Login.aspx) and follow the instructions to reset your password."
-  }
-]
-
-[
-  { "question": "hi", "answer": "Hello! How can I assist you today?" },
-  { "question": "hello", "answer": "Hi there! Ask me anything about your college." },
-  { "question": "who are you", "answer": "I'm a student support chatbot for Jamia Hamdard University." },
-  { "question": "when is the next exam", "answer": "The next exam schedule will be posted on the university portal." },
-  { "question": "how to pay fees", "answer": "You can pay your fees via the student portal under the 'Fee Payment' section." }
+  },
+  {
+  "question": "How can I check my internal marks?",
+  "answer": "Internal marks are usually uploaded on the student portal. Log in and go to 'Internal Assessment'."
+},
+{
+  "question": "What is the grading system at Jamia Hamdard?",
+  "answer": "Jamia Hamdard follows a 10-point CGPA grading system. Refer to the academic handbook for details."
+},
+{
+  "question": "Is Wi-Fi available on campus?",
+  "answer": "Yes, Wi-Fi is available in hostels and academic blocks. Contact IT support for login credentials."
+},
+{
+  "question": "Where is the canteen located?",
+  "answer": "The main canteen is located near the Central Library. There are other small cafeterias as well."
+},
+{
+  "question": "How do I apply for a migration certificate?",
+  "answer": "Submit a request at the academic section along with necessary documents and fees."
+},
+{
+  "question": "Can I change my branch or course?",
+  "answer": "Branch change is subject to university policies and seat availability. Contact your HoD for details."
+},
+{
+  "question": "How to register for campus placement?",
+  "answer": "Register through the Training & Placement portal and attend the pre-placement talks."
+},
+{
+  "question": "Does the university provide internship support?",
+  "answer": "Yes, you can contact the Training and Placement Cell for internship opportunities and guidance."
+},
+{
+  "question": "How can I get a character certificate?",
+  "answer": "You can apply for a character certificate via the student portal under 'Student Services'."
+},
+{
+  "question": "How long does it take to get the degree certificate?",
+  "answer": "It usually takes 3–4 months after the final results. Keep checking the notice board or website."
+},
+{ "question": "hi", "answer": "Hello! How can I assist you today?" },
+{ "question": "hello", "answer": "Hi there! Ask me anything about your college." },
+{ "question": "who are you", "answer": "I'm a student support chatbot for Jamia Hamdard University." },
+{ "question": "when is the next exam", "answer": "The next exam schedule will be posted on the university portal." },
+{ "question": "how to pay fees", "answer": "You can pay your fees via the student portal under the 'Fee Payment' section." }
 ]
