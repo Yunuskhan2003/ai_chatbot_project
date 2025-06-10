@@ -61,7 +61,7 @@
   },
   {
   "question": "How can I check my internal marks?",
-  "answer": "Internal marks are usually uploaded on the student portal. Log in and go to 'Internal Assessment'."
+  "answer": "Internal marks are usually uploaded on the student portal. Log in to (http://jhasf.jamiahamdard.edu:81/Login.aspx) and go to 'Internal Assessment'."
 },
 {
   "question": "What is the grading system at Jamia Hamdard?",
@@ -93,7 +93,7 @@
 },
 {
   "question": "How can I get a character certificate?",
-  "answer": "You can apply for a character certificate via the student portal under 'Student Services'."
+  "answer": "You can apply for a character certificate via the student portal (http://jhasf.jamiahamdard.edu:81/Login.aspx) under 'Student Services'."
 },
 {
   "question": "How long does it take to get the degree certificate?",
@@ -103,5 +103,7 @@
 { "question": "hello", "answer": "Hi there! Ask me anything about your college." },
 { "question": "who are you", "answer": "I'm a student support chatbot for Jamia Hamdard University." },
 { "question": "when is the next exam", "answer": "The next exam schedule will be posted on the university portal." },
-{ "question": "how to pay fees", "answer": "You can pay your fees via the student portal under the 'Fee Payment' section." }
+{ "question": "how to pay fees", "answer": "You can pay your fees via the student portal under the 'Fee Payment' section." },
+{ "question": "Fill Semester Exam Form", "answer": "You can fill your Semester Exam Form from the university portal (http://jhasf.jamiahamdard.edu:81/Login.aspx) using your enrollment number and password." },
+{ "question": "Download Admit Card", "answer": "You can download your admit card from the university portal (http://jhasf.jamiahamdard.edu:81/Login.aspx) using your enrollment number and password." }
 ]
