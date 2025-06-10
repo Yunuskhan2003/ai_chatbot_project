@@ -1,0 +1,21 @@
+#Backend
+
+cd backend
+
+python -m venv venv
+venv\Scripts\activate  # On Windows
+
+pip install fastapi uvicorn
+
+uvicorn main:app --reload
+
+
+#Frontend
+
+cd frontend
+
+npm install
+
+npm start
+
+
