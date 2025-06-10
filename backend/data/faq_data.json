@@ -1,0 +1,70 @@
+[
+  {
+    "question": "What is the syllabus for BTech CSE 3rd semester?",
+    "answer": "You can download the syllabus from: (https://jamiahamdard.ac.in)"
+  },
+  {
+    "question": "When do odd semester exams start?",
+    "answer": "According to the academic calendar of JAMIA HAMDARD UNIVERSITY, odd semester exams start on September 1st."
+  },
+  {
+    "question": "How can I pay my college fees?",
+    "answer": "Visit the fee portal at: (https://www.jamiahamdard.ac.in/-online-fee-payment)"
+  },
+  {
+    "question": "How can I download my admit card?",
+    "answer": "You can download your admit card from the official university portal (http://jhasf.jamiahamdard.edu:81/Login.aspx) using your enrollment number and password."
+  },
+  {
+    "question": "What documents are needed for scholarship application?",
+    "answer": "You'll need your marksheet, income certificate, ID proof, and bank passbook copy."
+  },
+  {
+    "question": "When will results be declared?",
+    "answer": "Results are usually declared one month after exams. Keep checking the university result portal."
+  },
+  {
+    "question": "Where can I collect my degree certificate?",
+    "answer": "Degree certificates are issued by the examination cell. You'll be notified via email or notice board when ready."
+  },
+  {
+    "question": "What is the attendance requirement?",
+    "answer": "You must maintain at least 75% attendance in each subject to be eligible for exams."
+  },
+  {
+    "question": "How do I apply for revaluation?",
+    "answer": "You can apply for revaluation through the examination portal within 15 days of result declaration."
+  },
+  {
+    "question": "How to get a hostel room?",
+    "answer": "Fill out the hostel admission form available on the website and submit it to the hostel warden's office."
+  },
+  {
+    "question": "Is there a transport facility?",
+    "answer": "Yes, the university provides bus services. You can register for it at the transport department."
+  },
+  {
+    "question": "How do I report ragging?",
+    "answer": "You can report any incident of ragging anonymously at the anti-ragging portal or directly to the Dean."
+  },
+  {
+    "question": "What are the library timings?",
+    "answer": "The library is open from 9 AM to 7 PM on weekdays and 10 AM to 5 PM on Saturdays."
+  },
+  {
+    "question": "Can I get a bonafide certificate online?",
+    "answer": "Yes, log in to the student portal (http://jhasf.jamiahamdard.edu:81/Login.aspx) and apply under 'Student Services > Bonafide Certificate'."
+  },
+  {
+    "question": "How can I reset my student portal password?",
+    "answer": "Click on 'Forgot Password' on the login page (http://jhasf.jamiahamdard.edu:81/Login.aspx) and follow the instructions to reset your password."
+  }
+]
+
+[
+  { "question": "hi", "answer": "Hello! How can I assist you today?" },
+  { "question": "hello", "answer": "Hi there! Ask me anything about your college." },
+  { "question": "who are you", "answer": "I'm a student support chatbot for Jamia Hamdard University." },
+  { "question": "when is the next exam", "answer": "The next exam schedule will be posted on the university portal." },
+  { "question": "how to pay fees", "answer": "You can pay your fees via the student portal under the 'Fee Payment' section." }
+]
